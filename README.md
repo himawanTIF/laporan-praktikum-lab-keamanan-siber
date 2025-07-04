@@ -1,4 +1,5 @@
-# laporan-praktikum-lab-keamanan-siber
+# Laporan Praktikum Laboratorium Keamanan Siber
+
 ![Static Badge](https://img.shields.io/badge/OWASP-framework?style=for-the-badge&logo=owasp&logoColor=%23000000&color=%2377e0c8)
 ![Static Badge](https://img.shields.io/badge/Python-tool?style=for-the-badge&logo=python&logoColor=%23000000&color=%2377e0c8)
 ![Static Badge](https://img.shields.io/badge/VirtualBox-tool?style=for-the-badge&logo=virtualbox&logoColor=%23000000&color=%2377e0c8)
@@ -24,7 +25,7 @@ Repositori ini berisi laporan praktikum laboratorium keamanan siber seperti:
 > Proyek Resmi: [Metasploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2/)
 ![Metasploitable 2](./assets/Metasploitable%202/1.%20Halaman%20Utama%20Metasploitable%202.png)
 
-4. **[InsecureBankv2]()**
+4. **[InsecureBankv2](./InsecureBankv2/Laporan%20Praktikum%20Uji%20Penetrasi%20InsecureBankv2.pdf)**
 > Proyek Resmi: [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 ![InsecureBankv2](./assets/InsecureBankv2/2.%20APK%20InsecureBankv2.png)
 
